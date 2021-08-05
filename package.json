@@ -3,7 +3,7 @@
   "main": "index.test.ts",
   "private": true,
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "jest": {
     "preset": "./jest-preset.js"

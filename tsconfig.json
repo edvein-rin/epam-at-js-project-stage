@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "noEmitHelpers": false,
+    "target": "es2020"
+  }
+}
